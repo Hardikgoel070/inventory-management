@@ -1,7 +1,6 @@
 import type { Config } from "tailwindcss";
 import { createThemes } from "tw-colors";
 import colors, { black, white } from "tailwindcss/colors";
-import { dark } from "@mui/material/styles/createPalette";
 
 const baseColors = [
   "gray",
